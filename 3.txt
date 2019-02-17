@@ -1,0 +1,3 @@
+echo"hi sanju how are you "
+echo "sanju learn the github properly"
+
